@@ -230,3 +230,7 @@ Berikut adalah alur kerja dasar aplikasi:
 
 
 # Dokumentasi
+
+
+https://github.com/user-attachments/assets/8f088c16-0ccc-47d2-a7d2-4425589a3d27
+
